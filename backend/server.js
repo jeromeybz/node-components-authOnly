@@ -28,5 +28,3 @@ app.listen(PORT, () => {
 });
 
 
-
-//password database: iKWpGqQNZ1phquM1
